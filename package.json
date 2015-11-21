@@ -1,0 +1,7 @@
+{
+  "name": "dragon-fruit",
+  "version": "1.0.0",
+  "description": "A library of functions to handle String Arrays",
+  "main": "./index.js",
+  "author": "Ronald Perlas"
+}
